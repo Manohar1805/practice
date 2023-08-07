@@ -6,3 +6,6 @@ def add(a,b):
 
 def seubstarction(a,b):
     return a-b
+
+def area(l,w):
+    return 2*l*w
